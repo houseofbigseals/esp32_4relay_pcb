@@ -634,7 +634,7 @@
     (property "Reference" "C17" (id 0) (at 175.26 90.5509 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10 uF" (id 1) (at 175.26 93.0909 0)
+    (property "Value" "10uF" (id 1) (at 175.26 93.0909 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" (id 2) (at 172.4152 96.52 0)

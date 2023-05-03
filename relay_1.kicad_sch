@@ -1865,7 +1865,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 204.47 67.31 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 1daa0db5-7756-4bbb-add4-35193ce6580b)
     (property "Reference" "RRQOPT3" (id 0) (at 201.93 66.04 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2468,7 +2468,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 69.85 66.04 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid b08c99cd-fb52-47e3-ba21-9f48d831cb5c)
     (property "Reference" "RRQOPT1" (id 0) (at 67.31 64.77 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2487,7 +2487,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 78.74 134.62 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid b4a59560-4ed4-4df7-a7a3-1608eb2ff0a7)
     (property "Reference" "RRQOPT2" (id 0) (at 76.2 133.35 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2670,7 +2670,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 207.01 134.62 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid e009615d-f951-4419-8d7f-caeccd5329b8)
     (property "Reference" "RRQOPT4" (id 0) (at 204.47 133.35 0)
       (effects (font (size 1.27 1.27)) (justify right))
