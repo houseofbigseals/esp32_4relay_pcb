@@ -6,11 +6,11 @@ The board has expansion pins for connecting additional equipment to the controll
 Mounting can be done in the housing with M3 screws or on a DIN rail, for which fasteners are provided.  
 The firmware is implemented on the basis of the ESP-HOME framework for integrating the product into the Home Assistant environment. The system is configured so that the user can securely access the board remotely, via a Wireguard network, or locally.  
 
-The fee contains:  
+The pcb contains:  
 - 4 5v relay module
-- buttons for manual switching of the relay state in an emergency situation
-– optocoupler for relay control from the controller
-- stabilizer AMS-1117-3.3.
+- buttons for manual switching of the relay state in an emergency situation  
+- optocoupler for relay control from the controller
+- AMS-1117-3.3.
 - USB-UART converter CP2102N.
 - USB type-c for power and connection to a PC
 - expansion pins for ESP32
